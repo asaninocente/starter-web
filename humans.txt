@@ -4,6 +4,7 @@
 # TEAM
 
     <name> -- <role> -- <twitter>
+	Alex San Inocente	asaninocente@gmail.com	@asaninocente
 
 # THANKS
 
